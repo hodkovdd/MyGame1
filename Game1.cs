@@ -25,6 +25,7 @@ public class Game1 : Game
     private Vector2 _characterPosition;
     private const int CharacterSpeed = 2; // Скорость движения персонажа
 
+    // test git commit
     // Генерация карты
     //private string[,] _gameMap = new string[MapWidth, MapHeight];
 
